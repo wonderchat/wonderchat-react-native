@@ -1,0 +1,9 @@
+node_modules/
+lib/
+package-lock.json
+*.tgz
+.expo/
+example/ios/
+example/android/
+e2e-ios.png
+.DS_Store
